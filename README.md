@@ -14,4 +14,5 @@ For instance, reply: ['854497037059989505','337.0']->['854495625911685120','0.0'
 
 If you use these data, please cite our work:
 
-[under revision in App Sci]
+Mendoza, M.; Valenzuela, S.; Núñez-Mussa, E.; Padilla, F.; Providel, E.; Campos, S.; Bassi, R.; Riquelme, A.; Aldana, V.; López, C. A Study on Information Disorders on Social Networks during the Chilean Social Outbreak and COVID-19 Pandemic. Appl. Sci. 2023, 13, 5347. https://doi.org/10.3390/app13095347
+
